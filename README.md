@@ -1,6 +1,6 @@
 # Life-expectancy-analysis
 
-The idea of analysis: predict life expectancy. For this, regression methods such as logical regression and Lasso were used. 
+The idea of analysis: predict life expectancy. For this, regression methods such as linear regression and Lasso were used. 
 
 Using cross validation methods, prediction accuracy has been improved.
 
